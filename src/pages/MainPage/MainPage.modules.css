@@ -1,0 +1,16 @@
+.mainPage{
+    overflow:hidden;
+}
+
+.mainWrapper{
+    width:100vw;
+    height:100vh;
+    background:grey;
+}
+.mainTitle{
+    color:royalblue;
+    font-size: 80px;
+    font-family: "Courier New";
+    margin: 0 auto;
+    padding-top: 30px;
+}
